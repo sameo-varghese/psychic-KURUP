@@ -1,0 +1,37 @@
+*{
+    background-size: cover;
+}
+.probox{
+    padding: 10px;
+    width: 88%;
+    height: 450px;
+    background: white;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+.left{
+    width: 50%;
+    height: 350px;
+    float: left;
+}
+.right{
+    width: 50%;
+    height: 350px;
+padding-top:35px;
+    float: left;
+}
+.detailbox{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.heading{
+    font-size: 35px;
+}
+.col a{
+    float: right;
+    margin-right: 25px;
+    font-weight: 1000;
+    color: white;
+    text-decoration: none;
+}
